@@ -9,3 +9,5 @@ if you wish to print any of these in bulk, i recommend [Sticker Mule](https://ww
 this work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 please do not use these anywhere commercially before first contacting me.
+
+![](https://raw.githubusercontent.com/shortstack/art/master/images/all.png)
